@@ -75,6 +75,14 @@ Here's an [example](https://robotsandphysicalcomputing.blogspot.com/2018/10/adaf
 
 Exploring the possibility of using WLED to sync the jackets and have pretty patterns!
 
+### Flashing
+
+Use [this site](https://install.wled.me/).
+
+### Controlling
+
+It's [here](http://10.0.1.19/).
+
 ### Buttons
 
 1. Cycle through non-music preset patterns (Long-press to toggle off and on)
@@ -94,5 +102,13 @@ Exploring the possibility of using WLED to sync the jackets and have pretty patt
 
 Get those little microphones
 
+## Wiring
+
+- [Pinout](https://wiki.seeedstudio.com/XIAO_ESP32C3_Getting_Started/)
+- [Battery](https://wiki.seeedstudio.com/XIAO_ESP32C3_Getting_Started/#battery-usage)
+- [LEDs](https://kno.wled.ge/basics/getting-started/)
+- [Level shifter](https://learn.sparkfun.com/tutorials/bi-directional-logic-level-converter-hookup-guide)
+- [Buttons](https://kno.wled.ge/features/macros/)
+- [Microphone](https://kno.wled.ge/advanced/audio-reactive/)
 
 
