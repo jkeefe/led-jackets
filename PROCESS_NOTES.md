@@ -70,6 +70,29 @@ Since we'd like this for dancing to music ... and reactive to the beat ... what 
 
 Here's an [example](https://robotsandphysicalcomputing.blogspot.com/2018/10/adafruit-circuit-playground-reacting-to.html).
 
+------
+## Using WLED
+
+Exploring the possibility of using WLED to sync the jackets and have pretty patterns!
+
+### Buttons
+
+1. Cycle through non-music preset patterns (Long-press to toggle off and on)
+2. Cycle through music-driven patterns
+3. Cycle brightness down (then back to bright)
+
+### Sync
+
+- Set to sync patterns and colors, but not brightness. Both jackets, both ways.
+- Be sure to toggle on the send synch option
+
+### Matrix
+
+- Set up the strip to be a matrix, with the front wrapping to the back
+
+### Flash with audio responsiveness
+
+Get those little microphones
 
 
 
