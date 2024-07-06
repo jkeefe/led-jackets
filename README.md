@@ -40,6 +40,11 @@ Buttons:
 - short press: down
 - long press: off
   
+Button pinouts:
+
+![image](https://github.com/jkeefe/led-jackets/assets/312347/ffce5416-ed5d-4570-93db-e34108d5183b)
+
+
 
 ## WLED
 
