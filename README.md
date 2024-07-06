@@ -18,7 +18,7 @@ I needed to switch to an ESP32 board because the ESP32-C3 isn't powerful enough 
 - [General info](https://quinled.info/quinled-esp32-specifications/)
 - [Pinout](https://quinled.info/quinled-esp32-board-details/):
 ![Screen Shot 2024-07-05 at 8 18 40 PM](https://github.com/jkeefe/led-jackets/assets/312347/c31ae058-a099-4c96-87fe-31a936e46aca)
-- 
+  
 
 ## Interface
 
@@ -44,6 +44,7 @@ Button pinouts:
 
 ![image](https://github.com/jkeefe/led-jackets/assets/312347/ffce5416-ed5d-4570-93db-e34108d5183b)
 
+[Wiring](https://kno.wled.ge/features/macros/) the buttons.
 
 
 ## WLED
