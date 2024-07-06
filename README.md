@@ -49,6 +49,7 @@ Button pinouts:
 
 ## WLED
 
-
+- [Mapping](https://kno.wled.ge/advanced/mapping/) leds to their proper spots
+- 
 
 
