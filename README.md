@@ -27,12 +27,15 @@ Buttons:
 **1: Fun lights**
 - short press: next
 - long press: cycle randomly every 2 minutes
+
 **2: Music lights**
 - short press: next
 - long press: cycle randomly every 6 minutes
+
 **2: Brighter**
 - short press: up
 - long press: max
+
 **4: Darker**
 - short press: down
 - long press: off
