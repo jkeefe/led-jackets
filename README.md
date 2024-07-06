@@ -9,7 +9,7 @@ Pretty, paired jackets using WLED
 - [USB-C Breakout Board](https://www.adafruit.com/product/4090) ... so I can still use USB, but route 5v out to the LEDs, too.
 - Adafruit Altoids tin [perma-proto breadboard](https://www.adafruit.com/product/723)
 - [LED strand](https://www.adafruit.com/product/4917)
-- [Membrane buttons](https://www.adafruit.com/product/1332)
+- [Membrane buttons](https://www.adafruit.com/product/1332) • [Pinouts](https://learn.adafruit.com/matrix-keypad/pinouts)
 
 ## The controller
 
