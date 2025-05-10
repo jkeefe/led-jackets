@@ -1,0 +1,1534 @@
+{
+    "0": {},
+    "1": {
+        "ps": "30~ 44~",
+        "n": "AA-Cycle Regular"
+    },
+    "2": {
+        "playlist": {
+            "ps": [
+                30,
+                31,
+                32,
+                34,
+                36,
+                37,
+                38,
+                39,
+                40,
+                41,
+                42,
+                43,
+                44,
+                35,
+                33
+            ],
+            "dur": [
+                1200,
+                1200,
+                1200,
+                1200,
+                1200,
+                1200,
+                1200,
+                1200,
+                1200,
+                1200,
+                1200,
+                1200,
+                1200,
+                1200,
+                1200
+            ],
+            "transition": [
+                7,
+                7,
+                7,
+                7,
+                7,
+                7,
+                7,
+                7,
+                7,
+                7,
+                7,
+                7,
+                7,
+                7,
+                7
+            ],
+            "repeat": 0,
+            "end": 0,
+            "r": 1
+        },
+        "on": true,
+        "n": "AA-Cycle Regular (cont)"
+    },
+    "3": {
+        "ps": "5~ 16~",
+        "n": "AA-Cycle Music"
+    },
+    "4": {
+        "playlist": {
+            "ps": [
+                5,
+                6,
+                15,
+                16,
+                7,
+                8,
+                9,
+                10,
+                11,
+                12,
+                13,
+                14
+            ],
+            "dur": [
+                2400,
+                2400,
+                2400,
+                2400,
+                2400,
+                2400,
+                2400,
+                2400,
+                2400,
+                2400,
+                2400,
+                2400
+            ],
+            "transition": [
+                7,
+                7,
+                7,
+                7,
+                7,
+                7,
+                7,
+                7,
+                7,
+                7,
+                7,
+                7
+            ],
+            "repeat": 0,
+            "end": 0,
+            "r": 0
+        },
+        "on": true,
+        "n": "AA-Cycle Music (cont)"
+    },
+    "5": {
+        "mainseg": 0,
+        "seg": [
+            {
+                "id": 0,
+                "grp": 1,
+                "spc": 0,
+                "of": 0,
+                "on": true,
+                "frz": false,
+                "bri": 255,
+                "cct": 127,
+                "set": 0,
+                "col": [
+                    [
+                        255,
+                        160,
+                        0
+                    ],
+                    [
+                        0,
+                        0,
+                        0
+                    ],
+                    [
+                        0,
+                        0,
+                        0
+                    ]
+                ],
+                "fx": 128,
+                "sx": 128,
+                "ix": 128,
+                "pal": 18,
+                "c1": 128,
+                "c2": 128,
+                "c3": 16,
+                "sel": true,
+                "rev": false,
+                "mi": false,
+                "rY": false,
+                "mY": false,
+                "tp": false,
+                "o1": false,
+                "o2": false,
+                "o3": false,
+                "si": 0,
+                "m12": 0
+            }
+        ],
+        "n": "Jkt-Mx-Pixels-B/R"
+    },
+    "6": {
+        "mainseg": 0,
+        "seg": [
+            {
+                "id": 0,
+                "grp": 1,
+                "spc": 0,
+                "of": 0,
+                "on": true,
+                "frz": false,
+                "bri": 255,
+                "cct": 127,
+                "set": 0,
+                "col": [
+                    [
+                        255,
+                        160,
+                        0
+                    ],
+                    [
+                        0,
+                        0,
+                        0
+                    ],
+                    [
+                        0,
+                        0,
+                        0
+                    ]
+                ],
+                "fx": 133,
+                "sx": 128,
+                "ix": 128,
+                "pal": 50,
+                "c1": 128,
+                "c2": 128,
+                "c3": 16,
+                "sel": true,
+                "rev": false,
+                "mi": false,
+                "rY": false,
+                "mY": false,
+                "tp": false,
+                "o1": false,
+                "o2": false,
+                "o3": false,
+                "si": 0,
+                "m12": 0
+            }
+        ],
+        "n": "Jkt-Mx-Plasmoid-G"
+    },
+    "7": {
+        "mainseg": 0,
+        "seg": [
+            {
+                "id": 0,
+                "grp": 1,
+                "spc": 0,
+                "of": 0,
+                "on": true,
+                "frz": false,
+                "bri": 255,
+                "cct": 127,
+                "set": 0,
+                "col": [
+                    [
+                        255,
+                        160,
+                        0
+                    ],
+                    [
+                        0,
+                        0,
+                        0
+                    ],
+                    [
+                        0,
+                        0,
+                        0
+                    ]
+                ],
+                "fx": 133,
+                "sx": 128,
+                "ix": 128,
+                "pal": 6,
+                "c1": 128,
+                "c2": 128,
+                "c3": 16,
+                "sel": true,
+                "rev": false,
+                "mi": false,
+                "rY": false,
+                "mY": false,
+                "tp": false,
+                "o1": false,
+                "o2": false,
+                "o3": false,
+                "si": 0,
+                "m12": 0
+            }
+        ],
+        "n": "Jkt-Mx-Plasmoid-Party"
+    },
+    "8": {
+        "mainseg": 0,
+        "seg": [
+            {
+                "id": 0,
+                "grp": 1,
+                "spc": 0,
+                "of": 0,
+                "on": true,
+                "frz": false,
+                "bri": 255,
+                "cct": 127,
+                "set": 0,
+                "col": [
+                    [
+                        255,
+                        160,
+                        0
+                    ],
+                    [
+                        0,
+                        0,
+                        0
+                    ],
+                    [
+                        0,
+                        0,
+                        0
+                    ]
+                ],
+                "fx": 148,
+                "sx": 128,
+                "ix": 102,
+                "pal": 35,
+                "c1": 77,
+                "c2": 32,
+                "c3": 16,
+                "sel": true,
+                "rev": false,
+                "mi": false,
+                "rY": false,
+                "mY": false,
+                "tp": false,
+                "o1": false,
+                "o2": false,
+                "o3": false,
+                "si": 0,
+                "m12": 0
+            }
+        ],
+        "n": "Jkt-Mx-Ripple-Fire"
+    },
+    "9": {
+        "mainseg": 0,
+        "seg": [
+            {
+                "id": 0,
+                "grp": 1,
+                "spc": 0,
+                "of": 0,
+                "on": true,
+                "frz": false,
+                "bri": 255,
+                "cct": 127,
+                "set": 0,
+                "col": [
+                    [
+                        255,
+                        160,
+                        0
+                    ],
+                    [
+                        0,
+                        0,
+                        0
+                    ],
+                    [
+                        0,
+                        0,
+                        0
+                    ]
+                ],
+                "fx": 148,
+                "sx": 128,
+                "ix": 102,
+                "pal": 14,
+                "c1": 77,
+                "c2": 32,
+                "c3": 16,
+                "sel": true,
+                "rev": false,
+                "mi": false,
+                "rY": false,
+                "mY": false,
+                "tp": false,
+                "o1": false,
+                "o2": false,
+                "o3": false,
+                "si": 0,
+                "m12": 0
+            }
+        ],
+        "n": "Jkt-Mx-Ripple-Riven"
+    },
+    "10": {
+        "mainseg": 0,
+        "seg": [
+            {
+                "id": 0,
+                "grp": 1,
+                "spc": 0,
+                "of": 0,
+                "on": true,
+                "frz": false,
+                "bri": 255,
+                "cct": 127,
+                "set": 0,
+                "col": [
+                    [
+                        255,
+                        160,
+                        0
+                    ],
+                    [
+                        0,
+                        0,
+                        0
+                    ],
+                    [
+                        0,
+                        0,
+                        0
+                    ]
+                ],
+                "fx": 135,
+                "sx": 128,
+                "ix": 128,
+                "pal": 51,
+                "c1": 128,
+                "c2": 128,
+                "c3": 16,
+                "sel": true,
+                "rev": false,
+                "mi": false,
+                "rY": false,
+                "mY": false,
+                "tp": false,
+                "o1": false,
+                "o2": false,
+                "o3": false,
+                "si": 0,
+                "m12": 1
+            }
+        ],
+        "n": "Jkt-Mx-Midnoise"
+    },
+    "11": {
+        "mainseg": 0,
+        "seg": [
+            {
+                "id": 0,
+                "grp": 1,
+                "spc": 0,
+                "of": 0,
+                "on": true,
+                "frz": false,
+                "bri": 255,
+                "cct": 127,
+                "set": 0,
+                "col": [
+                    [
+                        255,
+                        160,
+                        0
+                    ],
+                    [
+                        0,
+                        0,
+                        0
+                    ],
+                    [
+                        0,
+                        0,
+                        0
+                    ]
+                ],
+                "fx": 165,
+                "sx": 128,
+                "ix": 64,
+                "pal": 18,
+                "c1": 128,
+                "c2": 128,
+                "c3": 16,
+                "sel": true,
+                "rev": false,
+                "mi": false,
+                "rY": false,
+                "mY": false,
+                "tp": false,
+                "o1": false,
+                "o2": false,
+                "o3": false,
+                "si": 0,
+                "m12": 0
+            }
+        ],
+        "n": "Jkt-Mx-Waverly"
+    },
+    "12": {
+        "mainseg": 0,
+        "seg": [
+            {
+                "id": 0,
+                "grp": 1,
+                "spc": 0,
+                "of": 0,
+                "on": true,
+                "frz": false,
+                "bri": 255,
+                "cct": 127,
+                "set": 0,
+                "col": [
+                    [
+                        255,
+                        160,
+                        0
+                    ],
+                    [
+                        0,
+                        0,
+                        0
+                    ],
+                    [
+                        0,
+                        0,
+                        0
+                    ]
+                ],
+                "fx": 165,
+                "sx": 128,
+                "ix": 64,
+                "pal": 7,
+                "c1": 128,
+                "c2": 128,
+                "c3": 16,
+                "sel": true,
+                "rev": false,
+                "mi": false,
+                "rY": false,
+                "mY": false,
+                "tp": false,
+                "o1": false,
+                "o2": false,
+                "o3": false,
+                "si": 0,
+                "m12": 0
+            }
+        ],
+        "n": "Jkt-Mx-Waverly2"
+    },
+    "13": {
+        "mainseg": 0,
+        "seg": [
+            {
+                "id": 0,
+                "grp": 1,
+                "spc": 0,
+                "of": 0,
+                "on": true,
+                "frz": false,
+                "bri": 255,
+                "cct": 127,
+                "set": 0,
+                "col": [
+                    [
+                        255,
+                        160,
+                        0
+                    ],
+                    [
+                        0,
+                        0,
+                        0
+                    ],
+                    [
+                        0,
+                        0,
+                        0
+                    ]
+                ],
+                "fx": 175,
+                "sx": 135,
+                "ix": 59,
+                "pal": 69,
+                "c1": 163,
+                "c2": 128,
+                "c3": 16,
+                "sel": true,
+                "rev": false,
+                "mi": false,
+                "rY": false,
+                "mY": false,
+                "tp": false,
+                "o1": false,
+                "o2": false,
+                "o3": false,
+                "si": 0,
+                "m12": 0
+            }
+        ],
+        "n": "Jkt-Mx-Swirl"
+    },
+    "14": {
+        "mainseg": 0,
+        "seg": [
+            {
+                "id": 0,
+                "grp": 1,
+                "spc": 0,
+                "of": 0,
+                "on": true,
+                "frz": false,
+                "bri": 255,
+                "cct": 127,
+                "set": 0,
+                "col": [
+                    [
+                        255,
+                        160,
+                        0
+                    ],
+                    [
+                        0,
+                        0,
+                        0
+                    ],
+                    [
+                        0,
+                        0,
+                        0
+                    ]
+                ],
+                "fx": 144,
+                "sx": 1,
+                "ix": 151,
+                "pal": 33,
+                "c1": 77,
+                "c2": 32,
+                "c3": 16,
+                "sel": true,
+                "rev": false,
+                "mi": false,
+                "rY": false,
+                "mY": false,
+                "tp": false,
+                "o1": false,
+                "o2": false,
+                "o3": false,
+                "si": 0,
+                "m12": 0
+            }
+        ],
+        "n": "Jkt-Mx-Puddlepeak"
+    },
+    "15": {
+        "mainseg": 0,
+        "seg": [
+            {
+                "id": 0,
+                "grp": 1,
+                "spc": 0,
+                "of": 0,
+                "on": true,
+                "frz": false,
+                "bri": 255,
+                "cct": 127,
+                "set": 0,
+                "col": [
+                    [
+                        255,
+                        160,
+                        0
+                    ],
+                    [
+                        0,
+                        0,
+                        0
+                    ],
+                    [
+                        0,
+                        0,
+                        0
+                    ]
+                ],
+                "fx": 133,
+                "sx": 44,
+                "ix": 128,
+                "pal": 33,
+                "c1": 128,
+                "c2": 128,
+                "c3": 16,
+                "sel": true,
+                "rev": false,
+                "mi": false,
+                "rY": false,
+                "mY": false,
+                "tp": false,
+                "o1": false,
+                "o2": false,
+                "o3": false,
+                "si": 0,
+                "m12": 0
+            }
+        ],
+        "n": "Jkt-Mx-Plasmoid"
+    },
+    "16": {
+        "mainseg": 0,
+        "seg": [
+            {
+                "id": 0,
+                "grp": 1,
+                "spc": 0,
+                "of": 0,
+                "on": true,
+                "frz": false,
+                "bri": 255,
+                "cct": 127,
+                "set": 0,
+                "col": [
+                    [
+                        255,
+                        160,
+                        0
+                    ],
+                    [
+                        0,
+                        0,
+                        0
+                    ],
+                    [
+                        0,
+                        0,
+                        0
+                    ]
+                ],
+                "fx": 133,
+                "sx": 44,
+                "ix": 128,
+                "pal": 19,
+                "c1": 128,
+                "c2": 128,
+                "c3": 16,
+                "sel": true,
+                "rev": false,
+                "mi": false,
+                "rY": false,
+                "mY": false,
+                "tp": false,
+                "o1": false,
+                "o2": false,
+                "o3": false,
+                "si": 0,
+                "m12": 0
+            }
+        ],
+        "n": "Jkt-Mx-Plasmoid2"
+    },
+    "30": {
+        "mainseg": 0,
+        "seg": [
+            {
+                "id": 0,
+                "grp": 1,
+                "spc": 0,
+                "of": 0,
+                "on": true,
+                "frz": false,
+                "bri": 255,
+                "cct": 127,
+                "set": 0,
+                "col": [
+                    [
+                        255,
+                        33,
+                        37
+                    ],
+                    [
+                        0,
+                        0,
+                        0
+                    ],
+                    [
+                        0,
+                        0,
+                        0
+                    ]
+                ],
+                "fx": 2,
+                "sx": 67,
+                "ix": 128,
+                "pal": 2,
+                "c1": 128,
+                "c2": 128,
+                "c3": 16,
+                "sel": true,
+                "rev": false,
+                "mi": false,
+                "rY": false,
+                "mY": false,
+                "tp": false,
+                "o1": false,
+                "o2": false,
+                "o3": false,
+                "si": 0,
+                "m12": 0
+            }
+        ],
+        "n": "Jkt-Reg-Breathe"
+    },
+    "31": {
+        "mainseg": 0,
+        "seg": [
+            {
+                "id": 0,
+                "grp": 1,
+                "spc": 0,
+                "of": 0,
+                "on": true,
+                "frz": false,
+                "bri": 255,
+                "cct": 127,
+                "set": 0,
+                "col": [
+                    [
+                        0,
+                        0,
+                        255
+                    ],
+                    [
+                        0,
+                        0,
+                        0
+                    ],
+                    [
+                        0,
+                        0,
+                        0
+                    ]
+                ],
+                "fx": 88,
+                "sx": 125,
+                "ix": 224,
+                "pal": 35,
+                "c1": 128,
+                "c2": 128,
+                "c3": 16,
+                "sel": true,
+                "rev": false,
+                "mi": false,
+                "rY": false,
+                "mY": false,
+                "tp": false,
+                "o1": false,
+                "o2": false,
+                "o3": false,
+                "si": 0,
+                "m12": 0
+            }
+        ],
+        "n": "Jkt-Reg-Candle"
+    },
+    "32": {
+        "mainseg": 0,
+        "seg": [
+            {
+                "id": 0,
+                "grp": 1,
+                "spc": 0,
+                "of": 0,
+                "on": true,
+                "frz": false,
+                "bri": 255,
+                "cct": 127,
+                "set": 0,
+                "col": [
+                    [
+                        0,
+                        0,
+                        255
+                    ],
+                    [
+                        0,
+                        0,
+                        0
+                    ],
+                    [
+                        0,
+                        0,
+                        0
+                    ]
+                ],
+                "fx": 103,
+                "sx": 128,
+                "ix": 159,
+                "pal": 15,
+                "c1": 128,
+                "c2": 128,
+                "c3": 16,
+                "sel": true,
+                "rev": false,
+                "mi": false,
+                "rY": false,
+                "mY": false,
+                "tp": false,
+                "o1": false,
+                "o2": false,
+                "o3": false,
+                "si": 0,
+                "m12": 0
+            }
+        ],
+        "n": "Jkt-Reg-SolidGlitter"
+    },
+    "33": {
+        "mainseg": 0,
+        "seg": [
+            {
+                "id": 0,
+                "grp": 1,
+                "spc": 0,
+                "of": 0,
+                "on": true,
+                "frz": false,
+                "bri": 255,
+                "cct": 127,
+                "set": 0,
+                "col": [
+                    [
+                        0,
+                        0,
+                        255
+                    ],
+                    [
+                        0,
+                        0,
+                        0
+                    ],
+                    [
+                        0,
+                        0,
+                        0
+                    ]
+                ],
+                "fx": 44,
+                "sx": 0,
+                "ix": 0,
+                "pal": 11,
+                "c1": 128,
+                "c2": 128,
+                "c3": 16,
+                "sel": true,
+                "rev": false,
+                "mi": false,
+                "rY": false,
+                "mY": false,
+                "tp": false,
+                "o1": false,
+                "o2": false,
+                "o3": false,
+                "si": 0,
+                "m12": 1
+            }
+        ],
+        "n": "Jkt-Reg-Tetrix"
+    },
+    "34": {
+        "mainseg": 0,
+        "seg": [
+            {
+                "id": 0,
+                "grp": 1,
+                "spc": 0,
+                "of": 0,
+                "on": true,
+                "frz": false,
+                "bri": 255,
+                "cct": 127,
+                "set": 0,
+                "col": [
+                    [
+                        0,
+                        0,
+                        0
+                    ],
+                    [
+                        0,
+                        0,
+                        0
+                    ],
+                    [
+                        0,
+                        0,
+                        0
+                    ]
+                ],
+                "fx": 38,
+                "sx": 135,
+                "ix": 170,
+                "pal": 50,
+                "c1": 128,
+                "c2": 128,
+                "c3": 16,
+                "sel": true,
+                "rev": false,
+                "mi": false,
+                "rY": false,
+                "mY": false,
+                "tp": false,
+                "o1": false,
+                "o2": false,
+                "o3": false,
+                "si": 0,
+                "m12": 0
+            }
+        ],
+        "n": "Jkt-Reg-Aurora"
+    },
+    "35": {
+        "mainseg": 0,
+        "seg": [
+            {
+                "id": 0,
+                "grp": 1,
+                "spc": 0,
+                "of": 0,
+                "on": true,
+                "frz": false,
+                "bri": 255,
+                "cct": 127,
+                "set": 0,
+                "col": [
+                    [
+                        0,
+                        255,
+                        200
+                    ],
+                    [
+                        0,
+                        0,
+                        0
+                    ],
+                    [
+                        0,
+                        0,
+                        0
+                    ]
+                ],
+                "fx": 96,
+                "sx": 55,
+                "ix": 195,
+                "pal": 6,
+                "c1": 128,
+                "c2": 128,
+                "c3": 16,
+                "sel": true,
+                "rev": false,
+                "mi": false,
+                "rY": false,
+                "mY": false,
+                "tp": false,
+                "o1": false,
+                "o2": false,
+                "o3": false,
+                "si": 0,
+                "m12": 1
+            }
+        ],
+        "n": "Jkt-Reg-Drip"
+    },
+    "36": {
+        "mainseg": 0,
+        "seg": [
+            {
+                "id": 0,
+                "grp": 1,
+                "spc": 0,
+                "of": 0,
+                "on": true,
+                "frz": false,
+                "bri": 255,
+                "cct": 127,
+                "set": 0,
+                "col": [
+                    [
+                        0,
+                        255,
+                        200
+                    ],
+                    [
+                        0,
+                        0,
+                        0
+                    ],
+                    [
+                        0,
+                        0,
+                        0
+                    ]
+                ],
+                "fx": 66,
+                "sx": 54,
+                "ix": 33,
+                "pal": 35,
+                "c1": 128,
+                "c2": 128,
+                "c3": 8,
+                "sel": true,
+                "rev": false,
+                "mi": false,
+                "rY": false,
+                "mY": false,
+                "tp": false,
+                "o1": false,
+                "o2": false,
+                "o3": false,
+                "si": 0,
+                "m12": 1
+            }
+        ],
+        "n": "Jkt-Reg-Fire2012"
+    },
+    "37": {
+        "mainseg": 0,
+        "seg": [
+            {
+                "id": 0,
+                "grp": 1,
+                "spc": 0,
+                "of": 0,
+                "on": true,
+                "frz": false,
+                "bri": 255,
+                "cct": 127,
+                "set": 0,
+                "col": [
+                    [
+                        0,
+                        0,
+                        255
+                    ],
+                    [
+                        0,
+                        0,
+                        0
+                    ],
+                    [
+                        0,
+                        0,
+                        0
+                    ]
+                ],
+                "fx": 63,
+                "sx": 104,
+                "ix": 128,
+                "pal": 42,
+                "c1": 128,
+                "c2": 128,
+                "c3": 16,
+                "sel": true,
+                "rev": false,
+                "mi": false,
+                "rY": false,
+                "mY": false,
+                "tp": false,
+                "o1": false,
+                "o2": false,
+                "o3": false,
+                "si": 0,
+                "m12": 0
+            }
+        ],
+        "n": "Jkt-Reg-Pride"
+    },
+    "38": {
+        "mainseg": 0,
+        "seg": [
+            {
+                "id": 0,
+                "grp": 1,
+                "spc": 0,
+                "of": 0,
+                "on": true,
+                "frz": false,
+                "bri": 255,
+                "cct": 127,
+                "set": 0,
+                "col": [
+                    [
+                        0,
+                        0,
+                        255
+                    ],
+                    [
+                        0,
+                        0,
+                        0
+                    ],
+                    [
+                        0,
+                        0,
+                        0
+                    ]
+                ],
+                "fx": 43,
+                "sx": 131,
+                "ix": 196,
+                "pal": 0,
+                "c1": 128,
+                "c2": 128,
+                "c3": 16,
+                "sel": true,
+                "rev": false,
+                "mi": false,
+                "rY": false,
+                "mY": false,
+                "tp": false,
+                "o1": false,
+                "o2": false,
+                "o3": false,
+                "si": 0,
+                "m12": 0
+            }
+        ],
+        "n": "Jkt-Reg-Rain"
+    },
+    "39": {
+        "mainseg": 0,
+        "seg": [
+            {
+                "id": 0,
+                "grp": 1,
+                "spc": 0,
+                "of": 0,
+                "on": true,
+                "frz": false,
+                "bri": 255,
+                "cct": 127,
+                "set": 0,
+                "col": [
+                    [
+                        0,
+                        0,
+                        255
+                    ],
+                    [
+                        0,
+                        0,
+                        0
+                    ],
+                    [
+                        0,
+                        0,
+                        0
+                    ]
+                ],
+                "fx": 13,
+                "sx": 190,
+                "ix": 137,
+                "pal": 6,
+                "c1": 128,
+                "c2": 128,
+                "c3": 16,
+                "sel": true,
+                "rev": false,
+                "mi": false,
+                "rY": false,
+                "mY": false,
+                "tp": false,
+                "o1": false,
+                "o2": false,
+                "o3": false,
+                "si": 0,
+                "m12": 0
+            }
+        ],
+        "n": "Jkt-Reg-Theater"
+    },
+    "40": {
+        "mainseg": 0,
+        "seg": [
+            {
+                "id": 0,
+                "grp": 1,
+                "spc": 0,
+                "of": 0,
+                "on": true,
+                "frz": false,
+                "bri": 255,
+                "cct": 127,
+                "set": 0,
+                "col": [
+                    [
+                        0,
+                        0,
+                        255
+                    ],
+                    [
+                        0,
+                        0,
+                        0
+                    ],
+                    [
+                        0,
+                        0,
+                        0
+                    ]
+                ],
+                "fx": 81,
+                "sx": 128,
+                "ix": 128,
+                "pal": 46,
+                "c1": 128,
+                "c2": 128,
+                "c3": 16,
+                "sel": true,
+                "rev": false,
+                "mi": false,
+                "rY": false,
+                "mY": false,
+                "tp": false,
+                "o1": false,
+                "o2": false,
+                "o3": false,
+                "si": 0,
+                "m12": 0
+            }
+        ],
+        "n": "Jkt-Reg-Twinkecast"
+    },
+    "41": {
+        "mainseg": 0,
+        "seg": [
+            {
+                "id": 0,
+                "grp": 1,
+                "spc": 0,
+                "of": 0,
+                "on": true,
+                "frz": false,
+                "bri": 255,
+                "cct": 127,
+                "set": 0,
+                "col": [
+                    [
+                        0,
+                        0,
+                        255
+                    ],
+                    [
+                        0,
+                        0,
+                        0
+                    ],
+                    [
+                        0,
+                        0,
+                        0
+                    ]
+                ],
+                "fx": 126,
+                "sx": 128,
+                "ix": 128,
+                "pal": 44,
+                "c1": 58,
+                "c2": 202,
+                "c3": 5,
+                "sel": true,
+                "rev": false,
+                "mi": false,
+                "rY": false,
+                "mY": false,
+                "tp": false,
+                "o1": false,
+                "o2": false,
+                "o3": false,
+                "si": 0,
+                "m12": 0
+            }
+        ],
+        "n": "Jkt-Reg-Octopus"
+    },
+    "42": {
+        "mainseg": 0,
+        "seg": [
+            {
+                "id": 0,
+                "grp": 1,
+                "spc": 0,
+                "of": 0,
+                "on": true,
+                "frz": false,
+                "bri": 255,
+                "cct": 127,
+                "set": 0,
+                "col": [
+                    [
+                        0,
+                        0,
+                        255
+                    ],
+                    [
+                        0,
+                        0,
+                        0
+                    ],
+                    [
+                        0,
+                        0,
+                        0
+                    ]
+                ],
+                "fx": 42,
+                "sx": 128,
+                "ix": 233,
+                "pal": 63,
+                "c1": 128,
+                "c2": 128,
+                "c3": 16,
+                "sel": true,
+                "rev": false,
+                "mi": false,
+                "rY": false,
+                "mY": false,
+                "tp": false,
+                "o1": false,
+                "o2": false,
+                "o3": false,
+                "si": 0,
+                "m12": 0
+            }
+        ],
+        "n": "Jkt-Reg-Fireworks"
+    },
+    "43": {
+        "mainseg": 0,
+        "seg": [
+            {
+                "id": 0,
+                "grp": 1,
+                "spc": 0,
+                "of": 4,
+                "on": true,
+                "frz": false,
+                "bri": 255,
+                "cct": 127,
+                "set": 0,
+                "col": [
+                    [
+                        0,
+                        0,
+                        255
+                    ],
+                    [
+                        0,
+                        0,
+                        0
+                    ],
+                    [
+                        0,
+                        0,
+                        0
+                    ]
+                ],
+                "fx": 154,
+                "sx": 0,
+                "ix": 128,
+                "pal": 11,
+                "c1": 128,
+                "c2": 128,
+                "c3": 16,
+                "sel": true,
+                "rev": false,
+                "mi": false,
+                "rY": false,
+                "mY": false,
+                "tp": false,
+                "o1": false,
+                "o2": false,
+                "o3": false,
+                "si": 0,
+                "m12": 0
+            }
+        ],
+        "n": "Jkt-Reg-Metaballs"
+    },
+    "44": {
+        "mainseg": 0,
+        "seg": [
+            {
+                "id": 0,
+                "grp": 1,
+                "spc": 0,
+                "of": 4,
+                "on": true,
+                "frz": false,
+                "bri": 255,
+                "cct": 127,
+                "set": 0,
+                "col": [
+                    [
+                        0,
+                        0,
+                        255
+                    ],
+                    [
+                        0,
+                        0,
+                        0
+                    ],
+                    [
+                        0,
+                        0,
+                        0
+                    ]
+                ],
+                "fx": 181,
+                "sx": 124,
+                "ix": 141,
+                "pal": 15,
+                "c1": 23,
+                "c2": 201,
+                "c3": 16,
+                "sel": true,
+                "rev": false,
+                "mi": false,
+                "rY": false,
+                "mY": false,
+                "tp": false,
+                "o1": false,
+                "o2": false,
+                "o3": false,
+                "si": 0,
+                "m12": 0
+            }
+        ],
+        "n": "Jkt-Reg-Sindots-Clouds"
+    },
+    "103": {
+        "bri": "55",
+        "n": "AA-High"
+    },
+    "104": {
+        "bri": "5",
+        "n": "AA-Low"
+    }
+}
