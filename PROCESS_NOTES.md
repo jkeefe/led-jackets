@@ -89,6 +89,7 @@ Since we'd like this for dancing to music ... and reactive to the beat ... what 
 
 Here's an [example](https://robotsandphysicalcomputing.blogspot.com/2018/10/adafruit-circuit-playground-reacting-to.html).
 
+<<<<<<< HEAD
 Effect is either rows or full-jacket pulse/color
 
 ## Data structure
@@ -102,6 +103,47 @@ Skip any LEDs we don't want to light because they were just in transition from, 
 `SEQUENCE` = Array of LED ids from front bottom left to front bottom right, up one row across to left, etc ... then down the back the same way.
 
 `ROWS` = Array of arrays. Each sub-array has contains all LED ids for an entire row around the jacket. The rows are ordered from bottom of jacket to top.
+=======
+------
+## Using WLED
+>>>>>>> 4e9c87850fe614168fef76628d8288a204260785
 
+Exploring the possibility of using WLED to sync the jackets and have pretty patterns!
+
+### Flashing
+
+Use [this site](https://install.wled.me/).
+
+### Controlling
+
+It's [here](http://10.0.1.19/).
+
+### Buttons
+
+1. Cycle through non-music preset patterns (Long-press to toggle off and on)
+2. Cycle through music-driven patterns
+3. Cycle brightness down (then back to bright)
+
+### Sync
+
+- Set to sync patterns and colors, but not brightness. Both jackets, both ways.
+- Be sure to toggle on the send synch option
+
+### Matrix
+
+- Set up the strip to be a matrix, with the front wrapping to the back
+
+### Flash with audio responsiveness
+
+Get those little microphones
+
+## Wiring
+
+- [Pinout](https://wiki.seeedstudio.com/XIAO_ESP32C3_Getting_Started/)
+- [Battery](https://wiki.seeedstudio.com/XIAO_ESP32C3_Getting_Started/#battery-usage)
+- [LEDs](https://kno.wled.ge/basics/getting-started/)
+- [Level shifter](https://learn.sparkfun.com/tutorials/bi-directional-logic-level-converter-hookup-guide)
+- [Buttons](https://kno.wled.ge/features/macros/)
+- [Microphone](https://kno.wled.ge/advanced/audio-reactive/)
 
 
